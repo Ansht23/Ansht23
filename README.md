@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front End Development**
 
-- 💬 Ask me about **figma, canva**
+- 💬 Ask me about **Figma & Canva**
 
 - 📫 How to reach me **anshtiwari231102@gmail.com**
 
