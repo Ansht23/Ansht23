@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuttupansh" target="blank"><img src="https://img.shields.io/twitter/follow/shuttupansh?logo=twitter&style=for-the-badge" alt="shuttupansh" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
-
-- 🌱 I’m currently learning **Front End Development**
+- 🔭 I’m currently working on **Java**
 
 - 💬 Ask me about **Figma & Canva**
 
